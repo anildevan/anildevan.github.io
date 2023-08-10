@@ -1,0 +1,8 @@
+.answers.hide {
+    display: none;
+}
+
+.answers.show {
+    display: block;
+}
+
