@@ -192,7 +192,7 @@ var questions = [{
     "answers": ["serve on a jury", "vote in a federal election"]
 }, {
     "qnNumber": "50",
-    "question": "Name  one ",
+    "question": "Name one right only for United States citizens.",
     "answers": ["vote in a federal election", "run for federal office"]
 }, {
     "qnNumber": "51",
@@ -246,10 +246,19 @@ var questions = [{
     "qnNumber": "63",
     "question": "When was the Declaration of Independence adopted? ",
     "answers": ["July 4, 1776"]
-}, {"qnNumber": "64", "question": "There were 13 original states.  Name  three ", "answers": [""]}, {
+}, {"qnNumber": "64", "question": "There were 13 original states.  Name  three ", "answers": ["New Hampshire", "Massachusetts", "Rhode Island",
+    "▪ Connecticut",
+    "▪ New York",
+    "▪ New Jersey",
+    "▪ Pennsylvania",
+    "▪ Delaware",
+    "▪ Maryland",
+    "▪ Virginia",
+    "▪ North Carolina ▪ South Carolina ▪ Georgia"]}, {
     "qnNumber": "65",
     "question": "What happened at the Constitutional Convention? ",
-    "answers": ["", ""]
+    "answers": ["The Constitution was written",
+    "The Founding Fathers wrote the Constitution."]
 }, {"qnNumber": "66", "question": "When was the Constitution written? ", "answers": ["1787"]}, {
     "qnNumber": "67",
     "question": "The Federalist Papers supported the passage of the U.S. Constitution.  Name  one ",
