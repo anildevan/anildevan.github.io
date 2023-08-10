@@ -272,11 +272,11 @@ var questions = [{
     "answers": ["the Louisiana Territory", "Louisiana"]
 }, {
     "qnNumber": "72",
-    "question": "Name  one ",
+    "question": "Name one war fought by the United States in the 1800s.*",
     "answers": ["War of 1812", "Mexican-American War", "Civil War", "Spanish-American War"]
-}, {"qnNumber": "73", "question": "", "answers": ["the Civil War", "the War between the States"]}, {
+}, {"qnNumber": "73", "question": "Name the U.S. war between the North and the South", "answers": ["the Civil War", "the War between the States"]}, {
     "qnNumber": "74",
-    "question": "Name  one ",
+    "question": "Name one problem that led to the Civil War",
     "answers": ["slavery", "economic reasons", "states’ rights"]
 }, {
     "qnNumber": "75",
