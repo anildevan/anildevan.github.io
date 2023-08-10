@@ -325,14 +325,14 @@ var questions = [{
 }, {
     "qnNumber": "86",
     "question": "What major event happened on September 11, 2001, in the United States? ",
-    "answers": [""]
+    "answers": ["Terrorists attacked the United States.\n"]
 }, {
     "qnNumber": "87",
     "question": "Name  one [USCIS Officers will be supplied with a list of federally recognized American Indian tribes.] ",
     "answers": ["Cherokee", "Navajo", "Sioux", "Chippewa", "Choctaw", "Pueblo", "Apache", "Iroquois", "Creek", "Blackfeet", "Seminole", "Cheyenne", "Arawak", "Shawnee", "Mohegan", "Huron", "Oneida", "Lakota", "Crow", "Teton", "Hopi", "Inuit "]
 }, {
     "qnNumber": "88",
-    "question": "Name  one ",
+    "question": "Name one of the two longest rivers in the United States.",
     "answers": ["Missouri (River)", "Mississippi (River)"]
 }, {
     "qnNumber": "89",
@@ -344,15 +344,15 @@ var questions = [{
     "answers": ["Atlantic (Ocean)"]
 }, {
     "qnNumber": "91",
-    "question": "Name  one ",
+    "question": "Name one U.S. territory",
     "answers": ["Puerto Rico", "U.S. Virgin Islands", "American Samoa", "Northern Mariana Islands", "Guam"]
 }, {
     "qnNumber": "92",
-    "question": "Name  one ",
+    "question": "Name one state that borders Canada.",
     "answers": ["Maine", "New Hampshire", "Vermont", "New York", "Pennsylvania", "Ohio", "Michigan", "Minnesota", "North Dakota", "Montana", "Idaho", "Washington", "Alaska"]
 }, {
     "qnNumber": "93",
-    "question": "Name  one ",
+    "question": "Name one state that borders Mexico. ",
     "answers": ["California", "Arizona", "New Mexico", "Texas"]
 }, {"qnNumber": "94", "question": "What is the capital of the United States?* ", "answers": [""]}, {
     "qnNumber": "95",
